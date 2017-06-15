@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.navbar-custom .navbar-toggle{
+    background-color: aqua;
+}
+
+#sbtn {
+    background-color: blue;
+    width: 500px;
+    height: 80px;
+    text-align: center;
+    font-size: 30px;
+}
