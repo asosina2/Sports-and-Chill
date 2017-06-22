@@ -1,5 +1,7 @@
+
 header{
-    background-image: url(../img/logos/SportsAndChillBanner.jpg)
+    background-image: url(../img/logos/SportsAndChillBanner.jpg);
+    background-size: contain;
 }
 #sbtn {
     background-color: blue;
